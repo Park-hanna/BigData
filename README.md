@@ -1,10 +1,14 @@
 # NLP - Chat Bot 
+#### (패스트캠퍼스 수업 실습)
+<br>
 
 ## 자연어 처리 이해와 실습
 ### 목적 지향 대화, 오픈 도메인 대화가 가능한 Chat Bot
 <hr>
+
 <h2> 1. 목적 지향 대화 시스템 실습</h2>
 <br>
+
 TEXT 
 <br> -> NLU(Natural Language Understanding) 
 <br> -> DM(Dialogue Management) : DST(Dialog State Tracker), Policy 
